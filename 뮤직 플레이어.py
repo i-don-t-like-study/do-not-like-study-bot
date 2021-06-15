@@ -337,4 +337,4 @@ async def 목록재생(ctx):
         else:
             await ctx.send("노래가 이미 재생되고 있어요!")
 
-bot.run('ODQ4MTExMDg4NTQ1MTY5NDA4.YLH3AA.Jx3aTCO9fLylREr0O-pjn9v2WsQ')
+bot.run('키')
