@@ -38,4 +38,4 @@ async def on_command_error(ctx, error):
 async def Echo(ctx, *, text: str):
     await ctx.send(text)
 
-bot.run('ODQ4MTExMDg4NTQ1MTY5NDA4.YLH3AA.Jx3aTCO9fLylREr0O-pjn9v2WsQ')
+bot.run('키')
